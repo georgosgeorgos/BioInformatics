@@ -1,0 +1,55 @@
+name,module,connectivity,participation,role
+DVL2,0,-0.2581988897,0,Ultra peripheral
+FUS,0,-0.2581988897,0,Ultra peripheral
+GBRAP,0,-0.2581988897,0,Ultra peripheral
+GRIA1,0,-0.2581988897,0,Ultra peripheral
+GRP78,0,-0.2581988897,0,Ultra peripheral
+HSP74,0,-0.2581988897,0,Ultra peripheral
+INSR,0,-0.2581988897,0,Ultra peripheral
+ISG15,0,-0.2581988897,0,Ultra peripheral
+KLHL3,0,-0.2581988897,0,Ultra peripheral
+KPCI,0,-0.2581988897,0,Ultra peripheral
+MLP3C,0,-0.2581988897,0,Ultra peripheral
+MTOR,0,-0.2581988897,0,Ultra peripheral
+TRAF6,0,-0.2581988897,0,Ultra peripheral
+UBC,0,-0.2581988897,0,Ultra peripheral
+ULK2,0,-0.2581988897,0,Ultra peripheral
+SQSTM,0,3.8729833462,0.214532872,Connector Hub
+M3K8,1,-1.2247448714,0,Ultra peripheral
+TSP1,1,-1.2247448714,0,Ultra peripheral
+ITAV,1,0.8164965809,0,Ultra peripheral
+MP2K4,1,0.8164965809,0,Ultra peripheral
+MK01,1,0.8164965809,0.625,Connector
+FOS,2,-0.377964473,0,Ultra peripheral
+IRF1,2,-0.377964473,0,Ultra peripheral
+JAK1,2,-0.377964473,0,Ultra peripheral
+PGFRA,2,-0.377964473,0,Ultra peripheral
+STAT2,2,-0.377964473,0,Ultra peripheral
+FANCE,2,-0.377964473,0.5,Peripheral
+KS6B1,2,-0.377964473,0.5,Peripheral
+STAT1,2,2.6457513111,0.3703703704,Connector Hub
+FBX5,3,-0.5773502692,0,Ultra peripheral
+FBXL4,3,-0.5773502692,0,Ultra peripheral
+IKBA,3,-0.5773502692,0.5,Peripheral
+SKP1,3,1.7320508076,0,Ultra peripheral
+BRCC3,4,-0.3186064455,0,Ultra peripheral
+BUB1B,4,-0.3186064455,0,Ultra peripheral
+ERCC5,4,-0.3186064455,0,Ultra peripheral
+FANCG,4,-0.3186064455,0,Ultra peripheral
+FLNA,4,-0.3186064455,0,Ultra peripheral
+GRWD1,4,-0.3186064455,0,Ultra peripheral
+KAT2B,4,-0.3186064455,0,Ultra peripheral
+MCPH1,4,-0.3186064455,0,Ultra peripheral
+PCNA,4,-0.3186064455,0,Ultra peripheral
+SMC3,4,-0.3186064455,0,Ultra peripheral
+XRCC3,4,-0.3186064455,0,Ultra peripheral
+BCCIP,4,0.0579284446,0,Ultra peripheral
+BRCA2,4,3.4467424559,0.1527777778,Connector Hub
+CBL,5,-0.5773502692,0,Ultra peripheral
+HDAC5,5,-0.5773502692,0,Ultra peripheral
+MYOD1,5,-0.5773502692,0,Ultra peripheral
+P85B,5,-0.5773502692,0,Ultra peripheral
+TWST1,5,-0.5773502692,0,Ultra peripheral
+MEF2D,5,0.1924500897,0,Ultra peripheral
+EP300,5,0.1924500897,0.4444444444,Peripheral
+STAT3,5,2.5018511665,0.2777777778,Connector Hub

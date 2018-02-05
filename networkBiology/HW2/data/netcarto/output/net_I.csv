@@ -1,0 +1,26 @@
+name,module,connectivity,participation,role
+BRCC3,0,-0.316227766,0,Ultra peripheral
+BUB1B,0,-0.316227766,0,Ultra peripheral
+ERCC5,0,-0.316227766,0,Ultra peripheral
+FANCG,0,-0.316227766,0,Ultra peripheral
+FLNA,0,-0.316227766,0,Ultra peripheral
+KAT2B,0,-0.316227766,0,Ultra peripheral
+MCPH1,0,-0.316227766,0,Ultra peripheral
+PCNA,0,-0.316227766,0,Ultra peripheral
+SMC3,0,-0.316227766,0,Ultra peripheral
+XRCC3,0,-0.316227766,0,Ultra peripheral
+BRCA2,0,3.1622776602,0.2916666667,Connector Hub
+GRWD1,1,0,0,Ultra peripheral
+BCCIP,1,0,0.5,Peripheral
+FOS,2,-0.4472135955,0,Ultra peripheral
+IRF1,2,-0.4472135955,0,Ultra peripheral
+JAK1,2,-0.4472135955,0,Ultra peripheral
+STAT2,2,-0.4472135955,0,Ultra peripheral
+FANCE,2,-0.4472135955,0.5,Peripheral
+STAT1,2,2.2360679775,0.2777777778,Peripheral
+CBL,3,-0.894427191,0,Ultra peripheral
+HDAC5,3,-0.894427191,0,Ultra peripheral
+MYOD1,3,-0.894427191,0,Ultra peripheral
+MEF2D,3,0.4472135955,0,Ultra peripheral
+EP300,3,0.4472135955,0.4444444444,Peripheral
+STAT3,3,1.788854382,0,Ultra peripheral

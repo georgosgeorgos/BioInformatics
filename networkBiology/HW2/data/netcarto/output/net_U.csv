@@ -1,0 +1,293 @@
+name,module,connectivity,participation,role
+ACL6A,0,-0.3381163014,0,Ultra peripheral
+BMPR2,0,-0.3381163014,0,Ultra peripheral
+D3DR86,0,-0.3381163014,0,Ultra peripheral
+HSP7C,0,-0.3381163014,0,Ultra peripheral
+MAP2K1,0,-0.3381163014,0,Ultra peripheral
+MAP3K14,0,-0.3381163014,0,Ultra peripheral
+Nedd4,0,-0.3381163014,0,Ultra peripheral
+PFKAL,0,-0.3381163014,0,Ultra peripheral
+Q81U00,0,-0.3381163014,0,Ultra peripheral
+Q9UQC1,0,-0.3381163014,0,Ultra peripheral
+STIP1,0,-0.3381163014,0,Ultra peripheral
+TBA3C,0,-0.3381163014,0,Ultra peripheral
+TBB4A,0,-0.3381163014,0,Ultra peripheral
+CHUK,0,-0.3381163014,0.5,Peripheral
+DESP,0,-0.3381163014,0.5,Peripheral
+HSP90AA1,0,-0.3381163014,0.5,Peripheral
+M3K14,0,-0.3381163014,0.5,Peripheral
+NEDD4,0,-0.3381163014,0.5,Peripheral
+TRAF6,0,-0.3381163014,0.6666666667,Connector
+ACY3,0,-0.0989608687,0,Ultra peripheral
+KSR2,0,-0.0989608687,0,Ultra peripheral
+TNIP2,0,-0.0989608687,0,Ultra peripheral
+RIPK1,0,-0.0989608687,0.4444444444,Peripheral
+XPO1,0,-0.0989608687,0.4444444444,Peripheral
+TRAF2,0,-0.0989608687,0.5,Peripheral
+TAB2,0,-0.0989608687,0.625,Connector
+AKT1,0,-0.0989608687,0.64,Connector
+MAP3K8,0,3.0100597567,0.1171875,Connector Hub
+M3K8,0,4.2058369203,0.2268431002,Connector Hub
+ALDOB,1,-0.2311769321,0,Ultra peripheral
+CTIP,1,-0.2311769321,0,Ultra peripheral
+CYLC2,1,-0.2311769321,0,Ultra peripheral
+DUS22,1,-0.2311769321,0,Ultra peripheral
+EFNA4,1,-0.2311769321,0,Ultra peripheral
+F16P2,1,-0.2311769321,0,Ultra peripheral
+Flna,1,-0.2311769321,0,Ultra peripheral
+FLNC,1,-0.2311769321,0,Ultra peripheral
+GEMIN5,1,-0.2311769321,0,Ultra peripheral
+JIP3,1,-0.2311769321,0,Ultra peripheral
+KTI12,1,-0.2311769321,0,Ultra peripheral
+M3K12,1,-0.2311769321,0,Ultra peripheral
+M3K2,1,-0.2311769321,0,Ultra peripheral
+M3K20,1,-0.2311769321,0,Ultra peripheral
+M4K2,1,-0.2311769321,0,Ultra peripheral
+MAP2K6,1,-0.2311769321,0,Ultra peripheral
+MAP2K7,1,-0.2311769321,0,Ultra peripheral
+MAP3K1,1,-0.2311769321,0,Ultra peripheral
+MAP3K10,1,-0.2311769321,0,Ultra peripheral
+MAP3K11,1,-0.2311769321,0,Ultra peripheral
+MAP3K2,1,-0.2311769321,0,Ultra peripheral
+MAP4K2,1,-0.2311769321,0,Ultra peripheral
+MAPK10,1,-0.2311769321,0,Ultra peripheral
+MAPK8IP3,1,-0.2311769321,0,Ultra peripheral
+MAPK9,1,-0.2311769321,0,Ultra peripheral
+MK09,1,-0.2311769321,0,Ultra peripheral
+MK10,1,-0.2311769321,0,Ultra peripheral
+MK12,1,-0.2311769321,0,Ultra peripheral
+MP2K6,1,-0.2311769321,0,Ultra peripheral
+MP2K7,1,-0.2311769321,0,Ultra peripheral
+NPHS1,1,-0.2311769321,0,Ultra peripheral
+O52162,1,-0.2311769321,0,Ultra peripheral
+RBBP8,1,-0.2311769321,0,Ultra peripheral
+SH3R1,1,-0.2311769321,0,Ultra peripheral
+SPAG9,1,-0.2311769321,0,Ultra peripheral
+STX17,1,-0.2311769321,0,Ultra peripheral
+BIRC2,1,-0.2311769321,0.5,Peripheral
+ITCH,1,-0.2311769321,0.5,Peripheral
+MAP3K5,1,-0.2311769321,0.5,Peripheral
+MAP3K7,1,-0.2311769321,0.5,Peripheral
+TRIB1,1,-0.2311769321,0.5,Peripheral
+BLNK,1,-0.0324458852,0,Ultra peripheral
+GCH1,1,-0.0324458852,0,Ultra peripheral
+VASP,1,-0.0324458852,0,Ultra peripheral
+LRRK2,1,-0.0324458852,0.4444444444,Peripheral
+NBR1,1,-0.0324458852,0.4444444444,Peripheral
+EGFR,1,-0.0324458852,0.64,Connector
+MAP2K4,1,4.7370992412,0.1326530612,Connector Hub
+MP2K4,1,4.9358302882,0.1284185493,Connector Hub
+ACTN2,2,-0.2294157339,0,Ultra peripheral
+ATN1,2,-0.2294157339,0,Ultra peripheral
+ATX1,2,-0.2294157339,0,Ultra peripheral
+DMWD,2,-0.2294157339,0,Ultra peripheral
+HXA2,2,-0.2294157339,0,Ultra peripheral
+LDB3,2,-0.2294157339,0,Ultra peripheral
+PLM,2,-0.2294157339,0,Ultra peripheral
+PPLA,2,-0.2294157339,0,Ultra peripheral
+PPP1R12A,2,-0.2294157339,0,Ultra peripheral
+Q7CFV7,2,-0.2294157339,0,Ultra peripheral
+Q7CG08,2,-0.2294157339,0,Ultra peripheral
+RS10,2,-0.2294157339,0,Ultra peripheral
+TNNT2,2,-0.2294157339,0,Ultra peripheral
+UBQL4,2,-0.2294157339,0,Ultra peripheral
+CELF1,2,-0.2294157339,0.5,Peripheral
+PIN1,2,-0.2294157339,0.5,Peripheral
+RAC1,2,-0.2294157339,0.5,Peripheral
+HS90B,2,-0.2294157339,0.6666666667,Connector
+HS90A,2,-0.2294157339,0.75,Connector
+DMPK,2,4.3588989435,0,Peripheral Hub
+ATP6V1F,3,-0.1727566232,0,Ultra peripheral
+CC124,3,-0.1727566232,0,Ultra peripheral
+CCDC124,3,-0.1727566232,0,Ultra peripheral
+CHMP4B,3,-0.1727566232,0,Ultra peripheral
+CP1A1,3,-0.1727566232,0,Ultra peripheral
+CYP1A1,3,-0.1727566232,0,Ultra peripheral
+DNAJC3,3,-0.1727566232,0,Ultra peripheral
+DNJC3,3,-0.1727566232,0,Ultra peripheral
+EBNA1BP2,3,-0.1727566232,0,Ultra peripheral
+EBP2,3,-0.1727566232,0,Ultra peripheral
+EDC4,3,-0.1727566232,0,Ultra peripheral
+EIF2S1,3,-0.1727566232,0,Ultra peripheral
+ELF2,3,-0.1727566232,0,Ultra peripheral
+ELMSAN1,3,-0.1727566232,0,Ultra peripheral
+EMSA1,3,-0.1727566232,0,Ultra peripheral
+FARSA,3,-0.1727566232,0,Ultra peripheral
+FARSB,3,-0.1727566232,0,Ultra peripheral
+FTSJ3,3,-0.1727566232,0,Ultra peripheral
+gag,3,-0.1727566232,0,Ultra peripheral
+GLTSCR2,3,-0.1727566232,0,Ultra peripheral
+GPX7,3,-0.1727566232,0,Ultra peripheral
+GTPBP4,3,-0.1727566232,0,Ultra peripheral
+HIST1H1C,3,-0.1727566232,0,Ultra peripheral
+HIST1H2AB,3,-0.1727566232,0,Ultra peripheral
+HNRNPC,3,-0.1727566232,0,Ultra peripheral
+HNRNPCL1,3,-0.1727566232,0,Ultra peripheral
+IGF2BP2,3,-0.1727566232,0,Ultra peripheral
+IGF2BP3,3,-0.1727566232,0,Ultra peripheral
+IKBKB,3,-0.1727566232,0,Ultra peripheral
+IL7R,3,-0.1727566232,0,Ultra peripheral
+IQCF1,3,-0.1727566232,0,Ultra peripheral
+Jak2,3,-0.1727566232,0,Ultra peripheral
+K3,3,-0.1727566232,0,Ultra peripheral
+KCD17,3,-0.1727566232,0,Ultra peripheral
+KCTD17,3,-0.1727566232,0,Ultra peripheral
+Kif18b,3,-0.1727566232,0,Ultra peripheral
+MACROD1,3,-0.1727566232,0,Ultra peripheral
+METAP2,3,-0.1727566232,0,Ultra peripheral
+NLRC4,3,-0.1727566232,0,Ultra peripheral
+NLRP1,3,-0.1727566232,0,Ultra peripheral
+NLRP3,3,-0.1727566232,0,Ultra peripheral
+NOC3L,3,-0.1727566232,0,Ultra peripheral
+NOG1,3,-0.1727566232,0,Ultra peripheral
+P52K,3,-0.1727566232,0,Ultra peripheral
+PDGFRB,3,-0.1727566232,0,Ultra peripheral
+PKRI1,3,-0.1727566232,0,Ultra peripheral
+PPP1CA,3,-0.1727566232,0,Ultra peripheral
+PPP2R5A,3,-0.1727566232,0,Ultra peripheral
+PRKRIP1,3,-0.1727566232,0,Ultra peripheral
+PRKRIR,3,-0.1727566232,0,Ultra peripheral
+RED1,3,-0.1727566232,0,Ultra peripheral
+RNB,3,-0.1727566232,0,Ultra peripheral
+Rrbp1,3,-0.1727566232,0,Ultra peripheral
+SCARB2,3,-0.1727566232,0,Ultra peripheral
+STRBP,3,-0.1727566232,0,Ultra peripheral
+SUI2,3,-0.1727566232,0,Ultra peripheral
+SYFA,3,-0.1727566232,0,Ultra peripheral
+TARBP2,3,-0.1727566232,0,Ultra peripheral
+TIRAP,3,-0.1727566232,0,Ultra peripheral
+TOP1,3,-0.1727566232,0,Ultra peripheral
+TRAF5,3,-0.1727566232,0,Ultra peripheral
+TRBP2,3,-0.1727566232,0,Ultra peripheral
+VATF,3,-0.1727566232,0,Ultra peripheral
+VIRF2,3,-0.1727566232,0,Ultra peripheral
+ZNF346,3,-0.1727566232,0,Ultra peripheral
+AIM2,3,-0.1727566232,0.5,Peripheral
+HS71A,3,-0.1727566232,0.5,Peripheral
+ISG15,3,-0.1727566232,0.5,Peripheral
+P53,3,-0.1727566232,0.5,Peripheral
+POLG,3,-0.1727566232,0.5,Peripheral
+PTEN,3,-0.1727566232,0.5,Peripheral
+CDCA5,3,-0.0394006334,0,Ultra peripheral
+DBNL,3,-0.0394006334,0,Ultra peripheral
+DHX30,3,-0.0394006334,0,Ultra peripheral
+DHX58,3,-0.0394006334,0,Ultra peripheral
+DHX9,3,-0.0394006334,0,Ultra peripheral
+EIF2A,3,-0.0394006334,0,Ultra peripheral
+FANCC,3,-0.0394006334,0,Ultra peripheral
+HDGF,3,-0.0394006334,0,Ultra peripheral
+IFRD1,3,-0.0394006334,0,Ultra peripheral
+ILF2,3,-0.0394006334,0,Ultra peripheral
+MECP2,3,-0.0394006334,0,Ultra peripheral
+MOV10,3,-0.0394006334,0,Ultra peripheral
+PRKRA,3,-0.0394006334,0,Ultra peripheral
+STAU2,3,-0.0394006334,0,Ultra peripheral
+XRN2,3,-0.0394006334,0,Ultra peripheral
+E2AK2,3,5.161482971,0.2326844726,Connector Hub
+EIF2AK2,3,7.6952467783,0.1924704834,Connector Hub
+ACACA,4,-0.0975900073,0,Ultra peripheral
+ACACB,4,-0.0975900073,0,Ultra peripheral
+AMRA1,4,-0.0975900073,0,Ultra peripheral
+ASPP2,4,-0.0975900073,0,Ultra peripheral
+ATG12,4,-0.0975900073,0,Ultra peripheral
+ATG2A,4,-0.0975900073,0,Ultra peripheral
+ATG2B,4,-0.0975900073,0,Ultra peripheral
+ATG4A,4,-0.0975900073,0,Ultra peripheral
+ATG4C,4,-0.0975900073,0,Ultra peripheral
+ATG4D,4,-0.0975900073,0,Ultra peripheral
+ATG9A,4,-0.0975900073,0,Ultra peripheral
+B2CL1,4,-0.0975900073,0,Ultra peripheral
+BAK,4,-0.0975900073,0,Ultra peripheral
+BAKOR,4,-0.0975900073,0,Ultra peripheral
+BOK,4,-0.0975900073,0,Ultra peripheral
+CELF2,4,-0.0975900073,0,Ultra peripheral
+D6PAV9,4,-0.0975900073,0,Ultra peripheral
+DACT1,4,-0.0975900073,0,Ultra peripheral
+DC1I1,4,-0.0975900073,0,Ultra peripheral
+DHB12,4,-0.0975900073,0,Ultra peripheral
+DYL1,4,-0.0975900073,0,Ultra peripheral
+E7ETY2,4,-0.0975900073,0,Ultra peripheral
+ERF3A,4,-0.0975900073,0,Ultra peripheral
+EXOC2,4,-0.0975900073,0,Ultra peripheral
+EXOC4,4,-0.0975900073,0,Ultra peripheral
+EXOC8,4,-0.0975900073,0,Ultra peripheral
+F120A,4,-0.0975900073,0,Ultra peripheral
+FA7,4,-0.0975900073,0,Ultra peripheral
+FBRL,4,-0.0975900073,0,Ultra peripheral
+FOXO3,4,-0.0975900073,0,Ultra peripheral
+FRS2,4,-0.0975900073,0,Ultra peripheral
+GAPR1,4,-0.0975900073,0,Ultra peripheral
+GAS7,4,-0.0975900073,0,Ultra peripheral
+GFI1B,4,-0.0975900073,0,Ultra peripheral
+GOPC,4,-0.0975900073,0,Ultra peripheral
+GRID2,4,-0.0975900073,0,Ultra peripheral
+GSA1,4,-0.0975900073,0,Ultra peripheral
+GSTM1,4,-0.0975900073,0,Ultra peripheral
+GYS1,4,-0.0975900073,0,Ultra peripheral
+IF2P,4,-0.0975900073,0,Ultra peripheral
+ING4,4,-0.0975900073,0,Ultra peripheral
+IRGM,4,-0.0975900073,0,Ultra peripheral
+K1C18,4,-0.0975900073,0,Ultra peripheral
+MCL1,4,-0.0975900073,0,Ultra peripheral
+MDN1,4,-0.0975900073,0,Ultra peripheral
+MEFV,4,-0.0975900073,0,Ultra peripheral
+MIC60,4,-0.0975900073,0,Ultra peripheral
+ML12B,4,-0.0975900073,0,Ultra peripheral
+MYL6,4,-0.0975900073,0,Ultra peripheral
+NALP2,4,-0.0975900073,0,Ultra peripheral
+NALP5,4,-0.0975900073,0,Ultra peripheral
+NEF,4,-0.0975900073,0,Ultra peripheral
+NRBF2,4,-0.0975900073,0,Ultra peripheral
+P63,4,-0.0975900073,0,Ultra peripheral
+P85B,4,-0.0975900073,0,Ultra peripheral
+P89884,4,-0.0975900073,0,Ultra peripheral
+PEG3,4,-0.0975900073,0,Ultra peripheral
+PI3R4,4,-0.0975900073,0,Ultra peripheral
+PK3C3,4,-0.0975900073,0,Ultra peripheral
+PK3CG,4,-0.0975900073,0,Ultra peripheral
+PRKN,4,-0.0975900073,0,Ultra peripheral
+Q2GJL5,4,-0.0975900073,0,Ultra peripheral
+Q8UZC1,4,-0.0975900073,0,Ultra peripheral
+RALB,4,-0.0975900073,0,Ultra peripheral
+RB1CC1,4,-0.0975900073,0,Ultra peripheral
+RB39A,4,-0.0975900073,0,Ultra peripheral
+RB39B,4,-0.0975900073,0,Ultra peripheral
+RHEB,4,-0.0975900073,0,Ultra peripheral
+RO52,4,-0.0975900073,0,Ultra peripheral
+RUBCL,4,-0.0975900073,0,Ultra peripheral
+RUBIC,4,-0.0975900073,0,Ultra peripheral
+S10A8,4,-0.0975900073,0,Ultra peripheral
+S27A4,4,-0.0975900073,0,Ultra peripheral
+SEH1,4,-0.0975900073,0,Ultra peripheral
+SEP11,4,-0.0975900073,0,Ultra peripheral
+SGF29,4,-0.0975900073,0,Ultra peripheral
+SHD,4,-0.0975900073,0,Ultra peripheral
+SHLB2,4,-0.0975900073,0,Ultra peripheral
+SLAF1,4,-0.0975900073,0,Ultra peripheral
+SMC1A,4,-0.0975900073,0,Ultra peripheral
+SNX4,4,-0.0975900073,0,Ultra peripheral
+SRP72,4,-0.0975900073,0,Ultra peripheral
+STK11,4,-0.0975900073,0,Ultra peripheral
+STK35,4,-0.0975900073,0,Ultra peripheral
+TAB3,4,-0.0975900073,0,Ultra peripheral
+TBCD7,4,-0.0975900073,0,Ultra peripheral
+TCPR1,4,-0.0975900073,0,Ultra peripheral
+TNAP3,4,-0.0975900073,0,Ultra peripheral
+TNC18,4,-0.0975900073,0,Ultra peripheral
+TRABD,4,-0.0975900073,0,Ultra peripheral
+TRI40,4,-0.0975900073,0,Ultra peripheral
+UBP10,4,-0.0975900073,0,Ultra peripheral
+UBP18,4,-0.0975900073,0,Ultra peripheral
+UBP33,4,-0.0975900073,0,Ultra peripheral
+ULK3,4,-0.0975900073,0,Ultra peripheral
+UVRAG,4,-0.0975900073,0,Ultra peripheral
+VAC14,4,-0.0975900073,0,Ultra peripheral
+VMP1,4,-0.0975900073,0,Ultra peripheral
+VPS41,4,-0.0975900073,0,Ultra peripheral
+WDR81,4,-0.0975900073,0,Ultra peripheral
+WDR82,4,-0.0975900073,0,Ultra peripheral
+WIPI1,4,-0.0975900073,0,Ultra peripheral
+WIPI2,4,-0.0975900073,0,Ultra peripheral
+YES,4,-0.0975900073,0,Ultra peripheral
+ZWINT,4,-0.0975900073,0,Ultra peripheral
+BECN1,4,10.246950766,0.2976820358,Connector Hub

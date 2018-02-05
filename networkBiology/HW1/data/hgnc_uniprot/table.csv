@@ -1,0 +1,55 @@
+Protein name,Symbol HGNC,Uniprot ID,Uniprot AC,Entrez ID
+Arf-GAP with coiled-coil ANK repeat and PH domain-containing protein 2,ACAP2,ACAP2_HUMAN,Q15057,23527
+Arf-GAP with dual PH domain-containing protein 1,ADAP1,ADAP1_HUMAN,O75689,11033
+Arf-GAP domain and FG repeat-containing protein 1,AGFG1,AGFG1_HUMAN,P52594,3267
+Annexin A4,ANXA4,ANXA4_HUMAN,P09525,307
+Aurora kinase C,AURKC,AURKC_HUMAN,Q9UQB9,6795
+BRCA2 and CDKN1A-interacting protein,BCCIP,BCCIP_HUMAN,Q9P287,56647
+Beclin-1,BECN1,BECN1_HUMAN,Q14457,8678
+B2 bradykinin receptor,BDKRB2,BKRB2_HUMAN,P30411,624
+Breast cancer type 2 susceptibility protein,BRCA2,BRCA2_HUMAN,P51587,675
+Calreticulin,CALR,CALR_HUMAN,P27797,811
+Caveolin-1,CAV1,CAV1_HUMAN,Q03135,857
+F-actin-capping protein subunit alpha-2,CAPZA2,CAZA2_HUMAN,P47755,830
+Cell division control protein 42 homolog,CDC42,CDC42_HUMAN,P60953,998
+Cyclin-dependent kinase 1,CDK1,CDK1_HUMAN,P06493,983
+Clathrin heavy chain 1,CLTC,CLH1_HUMAN,Q00610,1213
+Cullin-2,CUL2,CUL2_HUMAN,Q13617,8453
+Serine/threonine-protein kinase DCLK1,DCLK1,DCLK1_HUMAN,O15075,9201
+Myotonin-protein kinase,DMPK,DMPK_HUMAN,Q09013,1760
+DNA polymerase delta catalytic subunit,POLD1,DPOD1_HUMAN,P28340,5424
+Interferon-induced double-stranded RNA-activated protein kinase,EIF2AK2,E2AK2_HUMAN,P19525,5610
+Protein enabled homolog,ENAH,ENAH_HUMAN,Q8N8S7,55740
+Fanconi anemia group J protein,BRIP1,FANCJ_HUMAN,Q9BX63,83990
+ADP-ribosylation factor-binding protein GGA2,GGA2,GGA2_HUMAN,Q9UJY4,23062
+Glucosamine 6-phosphate N-acetyltransferase,GNPNAT1,GNA1_HUMAN,Q96EK6,64841
+Heat shock factor protein 4,HSF4,HSF4_HUMAN,Q9ULV5,3299
+Interferon-induced protein with tetratricopeptide repeats 3,IFIT3,IFIT3_HUMAN,O14879,3437
+Interleukin enhancer-binding factor 3,ILF3,ILF3_HUMAN,Q12906,3609
+Integrin alpha-V,ITGAV,ITAV_HUMAN,P06756,3685
+Kinesin-like protein KIF3A,KIF3A,KIF3A_HUMAN,Q9Y496,11127
+Katanin p80 WD40 repeat-containing subunit B1,KATNB1,KTNB1_HUMAN,Q9BVA0,10300
+Prelamin-A/C,LMNA,LMNA_HUMAN,P02545,4000
+Mitogen-activated protein kinase kinase kinase 8,MAP3K8,M3K8_HUMAN,P41279,1326
+Myocyte-specific enhancer factor 2D,MEF2D,MEF2D_HUMAN,Q14814,4209
+Mitogen-activated protein kinase 3,MAPK3,MK03_HUMAN,P27361,5595
+Dual specificity mitogen-activated protein kinase kinase 4,MAP2K4,MP2K4_HUMAN,P45985,6416
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13,NDUFA13,NDUAD_HUMAN,Q9P0J0,51079
+Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,PPP3CA,PP2BA_HUMAN,Q08209,5530
+Tyrosine-protein phosphatase non-receptor type 1,PTPN1,PTN1_HUMAN,P18031,5770
+Rab5 GDP/GTP exchange factor,RABGEF1,RABX5_HUMAN,Q9UJ41,27342
+Ras-related protein Rap-2a,RAP2A,RAP2A_HUMAN,P10114,5911
+Ras-related protein Rab-27A,RAB27A,RB27A_HUMAN,P51159,5873
+Histone-binding protein RBBP4,RBBP4,RBBP4_HUMAN,Q09028,5928
+Serine incorporator 3,SERINC3,SERC3_HUMAN,Q13530,10955
+S-phase kinase-associated protein 1,SKP1,SKP1_HUMAN,P63208,6500
+Sortilin,SORT1,SORT_HUMAN,Q99523,6272
+Transcription factor PU.1,SPI1,SPI1_HUMAN,P17947,6688
+Sequestosome-1,SQSTM1,SQSTM_HUMAN,Q13501,8878
+Serum response factor,SRF,SRF_HUMAN,P11831,6722
+Signal transducer and activator of transcription 1-alpha/beta,STAT1,STAT1_HUMAN,P42224,6772
+Signal transducer and activator of transcription 3,STAT3,STAT3_HUMAN,P40763,6774
+Signal transducer and activator of transcription 6,STAT6,STAT6_HUMAN,P42226,6778
+Tubulin alpha-4A chain,TUBA4A,TBA4A_HUMAN,P68366,7277
+Tumor necrosis factor ligand superfamily member 6,FASLG,TNFL6_HUMAN,P48023,356
+Ubiquitin-conjugating enzyme E2 L3,UBE2L3,UB2L3_HUMAN,P68036,7332

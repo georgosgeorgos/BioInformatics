@@ -1,0 +1,191 @@
+GO category,P-value,Z-score,Combined score,module index,clustering method
+positive regulation of transcription from RNA polymerase II promoter (GO:0045944),1.888664302231185e-72,-7.770452474596514,1283.2922219017482,7,simulated annealing
+positive regulation of transcription from RNA polymerase II promoter involved in defense response to Gram-negative bacterium (GO:1902097),2.2368628279030943e-60,-6.553459348783078,900.1178461457237,7,simulated annealing
+positive regulation of pri-miRNA transcription from RNA polymerase II promoter (GO:1902895),5.852781731776757e-58,-6.635804931966915,874.4864030216861,7,simulated annealing
+positive regulation of transcription of Notch receptor target (GO:0007221),2.939192605591026e-57,-6.634619646132992,863.6232336883318,7,simulated annealing
+positive regulation of transcription from RNA polymerase II promoter involved in smooth muscle cell differentiation (GO:2000721),1.8321992910280625e-57,-6.5387646497587175,854.2362010806286,7,simulated annealing
+positive regulation of gluconeogenesis by positive regulation of transcription from RNA polymerase II promoter (GO:0035948),2.6535001445465735e-57,-6.5383024848903,851.7542807378567,7,simulated annealing
+SREBP signaling pathway (GO:0032933),3.837652710489057e-57,-6.5551784083378175,851.5339936666827,7,simulated annealing
+positive regulation of transcription from RNA polymerase II promoter involved in defense response to fungus (GO:1901244),1.4764201598874987e-57,-6.467347559663268,846.3024204799142,7,simulated annealing
+positive regulation of transcription initiation from RNA polymerase II promoter (GO:0060261),4.6128056715735575e-57,-6.523757497472798,846.2521284200762,7,simulated annealing
+positive regulation of transcription from RNA polymerase II promoter involved in neuron differentiation (GO:1904081),4.740033645593307e-56,-6.56427975866347,836.2152025700703,7,simulated annealing
+DNA synthesis involved in DNA repair (GO:0000731),4.499743345318472e-96,-3.1621332747913202,694.2278574683404,16,simulated annealing
+double-strand break repair (GO:0006302),1.400197665765737e-87,-3.2713012919830016,654.2219503920088,16,simulated annealing
+interstrand cross-link repair (GO:0036297),1.9251716854497476e-85,-3.323392728764055,648.276664620343,16,simulated annealing
+DNA ligation involved in DNA repair (GO:0051103),3.9748360038571364e-81,-3.227094829565572,597.4301587204643,16,simulated annealing
+DNA repair (GO:0006281),5.451330300959154e-66,-3.968174766197786,596.3164966080668,16,simulated annealing
+mismatch repair (GO:0006298),3.090856476784554e-82,-3.1592504141038025,592.9392679649518,16,simulated annealing
+nucleotide-excision repair (GO:0006289),4.520209938200734e-81,-3.047555859468204,563.8003759473818,16,simulated annealing
+DNA-dependent DNA replication (GO:0006261),1.2984885889341326e-76,-3.1705062791944694,553.9992583773821,16,simulated annealing
+base-excision repair (GO:0006284),2.713811340070782e-77,-3.1415435685647313,553.8563242971279,16,simulated annealing
+recombinational repair (GO:0000725),2.252330276340994e-72,-3.151870303274238,519.9771599254301,16,simulated annealing
+endocytosis (GO:0006897),3.8004250865953595e-39,-3.165871987730741,280.0710995548887,0,simulated annealing
+vesicle fusion (GO:0006906),1.6609149684619403e-36,-3.12607680117058,257.54400898576637,0,simulated annealing
+endocytic recycling (GO:0032456),1.5438898831460344e-32,-3.3193715688003307,243.13871565747363,0,simulated annealing
+"retrograde transport, endosome to Golgi (GO:0042147)",1.7439337470246926e-29,-3.5303344184175365,233.77459478932576,0,simulated annealing
+endosome to lysosome transport (GO:0008333),1.878985661274576e-30,-3.3881493924648707,231.90805397241493,0,simulated annealing
+receptor-mediated endocytosis (GO:0006898),3.3150981515311386e-26,-3.6203976450339224,212.4041145017701,0,simulated annealing
+late endosome to vacuole transport (GO:0045324),6.231442577113839e-25,-3.2469758320878688,180.97026120557905,0,simulated annealing
+neurotransmitter receptor transport postsynaptic membrane to endosome (GO:0098968),8.688442009336757e-25,-3.2078889849789167,177.72549834369954,0,simulated annealing
+vesicle docking (GO:0048278),1.3503172667033771e-26,-2.981708572626893,177.61105539349163,0,simulated annealing
+intracellular protein transport (GO:0006886),7.869705250527117e-20,-3.598440789030609,158.2906648672373,0,simulated annealing
+purine deoxyribonucleotide catabolic process (GO:0009155),0.00018229834925359616,-3.0801590058373467,26.519756087745762,65,markov clusters
+purine nucleotide catabolic process (GO:0006195),0.00018229834925359616,-2.810537120459625,24.198347802464237,65,markov clusters
+DNA protection (GO:0042262),0.000516532855022891,-3.0295908333297787,22.929069406008317,65,markov clusters
+protein export from nucleus (GO:0006611),0.0014683029753969725,-3.504781564841132,22.86396118834451,65,markov clusters
+purine ribonucleotide catabolic process (GO:0009154),0.00015812357962703558,-2.598634224513822,22.743594121275077,65,markov clusters
+endoplasmic reticulum-Golgi intermediate compartment (ERGIC) derived vesicle fusion with Golgi cis cisterna membrane (GO:1990689),0.0009802587904219487,-3.199960430538148,22.16834651264291,65,markov clusters
+"vesicle targeting, rough ER to cis-Golgi (GO:0048207)",0.0009802587904219487,-3.19749348864951,22.151256294247712,65,markov clusters
+COPII vesicle uncoating (GO:0090112),0.0009997828774344548,-3.2030803381812527,22.12679065160718,65,markov clusters
+endoplasmic reticulum-derived vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane (GO:1990687),0.001080345066412382,-3.238427028352589,22.119994153552934,65,markov clusters
+"protein import into nucleus, translocation (GO:0000060)",0.002346294848277751,-3.649171137318474,22.09543147665146,65,markov clusters
+peptidyl-serine phosphorylation (GO:0018105),0.0025793489802477506,-4.545863390292548,27.094337918677912,54,markov clusters
+negative regulation of protein kinase activity by protein phosphorylation (GO:0100002),0.0032078435487508886,-4.553732584172515,26.148244516574476,54,markov clusters
+protein localization to endosome (GO:0036010),0.00039731711090902085,-2.99994771915824,23.491918084717152,54,markov clusters
+vascular endothelial growth factor signaling pathway (GO:0038084),0.00043600719693991796,-3.0225379927128713,23.387951071687805,54,markov clusters
+nerve growth factor signaling pathway (GO:0038180),0.00017245705184751672,-2.617347406798603,22.68026361630078,54,markov clusters
+vascular endothelial growth factor receptor signaling pathway (GO:0048010),0.0013556104370147915,-3.407323184819735,22.500270300855092,54,markov clusters
+plasma membrane to endosome transport (GO:0048227),0.00027547466189539597,-2.732132824529797,22.395333484953408,54,markov clusters
+slow endocytic recycling (GO:0032458),0.0006536192719967982,-3.0339000424613736,22.247545107601404,54,markov clusters
+fast endocytic recycling (GO:0032457),0.000597399048290166,-2.9797891740620996,22.118752285727695,54,markov clusters
+protein localization to early endosome (GO:1902946),7.346661080480047e-05,-2.300201098294105,21.894877108581085,54,markov clusters
+phosphatidylinositol-3-phosphate biosynthetic process (GO:0036092),1.9020760767859285e-09,-2.835715689291937,56.94207811642568,51,markov clusters
+"1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate biosynthetic process (GO:1903102)",1.9020760767859285e-09,-2.8336963448464108,56.901529034021074,51,markov clusters
+phosphatidylinositol 5-phosphate biosynthetic process (GO:1904563),1.9020760767859285e-09,-2.831298785250909,56.853385270423274,51,markov clusters
+"1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process (GO:1902635)",1.9020760767859285e-09,-2.829223047248101,56.81170378734954,51,markov clusters
+phosphatidylinositol biosynthetic process (GO:0006661),5.045378979791066e-09,-2.894379106211021,55.29651387895552,51,markov clusters
+GPI anchor biosynthetic process (GO:0006506),1.5565756934971772e-08,-3.033838745916995,54.5429366957611,51,markov clusters
+peptidyl-tyrosine dephosphorylation (GO:0035335),1.684478902471281e-05,-3.0078914535718257,33.0611462859905,51,markov clusters
+regulation of translational initiation by eIF2 alpha dephosphorylation (GO:0036496),9.518146073606723e-06,-2.710769302037554,31.34275627807528,51,markov clusters
+histone dephosphorylation (GO:0016576),1.3660465549113699e-05,-2.795672535942366,31.314341000066396,51,markov clusters
+peptidyl-serine dephosphorylation (GO:0070262),1.1451680332277357e-05,-2.742278993608223,31.199933955226225,51,markov clusters
+negative regulation of heart contraction (GO:0045822),4.524595207388823e-08,-2.424231065253678,40.996541549395815,13,markov clusters
+negative regulation of hydrogen:potassium-exchanging ATPase activity (GO:1904452),7.907733062329299e-07,-2.881725135111677,40.48897155202156,13,markov clusters
+regulation of heart contraction involved in acute-phase response (GO:0002531),2.5774218056587815e-07,-2.662577100078816,40.39477207178404,13,markov clusters
+regulation of heart contraction (GO:0008016),3.8578349710881836e-08,-2.3638430067800105,40.35215840446753,13,markov clusters
+positive regulation of heart contraction (GO:0045823),7.045841699397782e-08,-2.3822838754696005,39.23203006833936,13,markov clusters
+regulation of cardiac muscle contraction (GO:0055117),4.1341441125328086e-07,-2.6213342820318446,38.5305085297675,13,markov clusters
+regulation of cardiac conduction (GO:1903779),3.508795714440181e-06,-2.875735982874886,36.119927451730106,13,markov clusters
+negative regulation of sodium:potassium-exchanging ATPase activity (GO:1903407),2.0956531716631385e-06,-2.640174918388685,34.52199070137574,13,markov clusters
+negative regulation of ATPase activity (GO:0032780),0.00023572671392800405,-3.445220862726538,28.7773697277383,13,markov clusters
+regulation of cell communication by electrical coupling involved in cardiac conduction (GO:1901844),7.132673939469178e-05,-2.684700683326353,25.634164504210677,13,markov clusters
+vesicle docking (GO:0048278),5.608984914314717e-26,-2.9938458554980145,174.07070851515087,57,markov clusters
+vesicle fusion (GO:0006906),3.0500556773805966e-17,-3.12607680117058,118.88090799072006,57,markov clusters
+phagosome-lysosome docking (GO:0090384),6.139578580923343e-16,-3.145796523956545,110.18657346024777,57,markov clusters
+Golgi vesicle docking (GO:0048211),5.178371667635289e-15,-3.1174591766244673,102.54659293223258,57,markov clusters
+transcytosis (GO:0045056),1.6284533145216815e-13,-2.8713632823295616,84.55009295317494,57,markov clusters
+endocytic recycling (GO:0032456),4.000817438773208e-11,-3.273982562353758,78.38548530446832,57,markov clusters
+endocytosis (GO:0006897),1.4154003265135975e-11,-3.1272525255562402,78.12196919282933,57,markov clusters
+"retrograde transport, endosome to Golgi (GO:0042147)",3.3064062917037726e-10,-3.4830590754798263,76.03514145329052,57,markov clusters
+Golgi vesicle transport (GO:0048193),1.6364057717828836e-11,-2.893917671605692,71.87314768207906,57,markov clusters
+vesicle uncoating (GO:0072319),1.000484067005219e-11,-2.8288817916052276,71.64978243810646,57,markov clusters
+positive regulation of calcium ion-dependent exocytosis (GO:0045956),3.4010201838474634e-18,-2.4720235901235204,99.43086066119395,0,markov clusters
+vesicle fusion (GO:0006906),2.2558457726459074e-14,-3.1147221337958246,97.87287433278821,0,markov clusters
+regulation of synaptic vesicle exocytosis (GO:2000300),2.248356338309386e-15,-2.842850547166959,95.8853034714662,0,markov clusters
+endosomal vesicle fusion (GO:0034058),7.419122279304255e-14,-2.7005097258245403,81.64216256358823,0,markov clusters
+vesicle fusion with nuclear membrane involved in mitotic nuclear envelope reassembly (GO:0007086),7.419122279304255e-14,-2.6335770079783267,79.6186439000682,0,markov clusters
+vesicle fusion with Golgi cis cisterna membrane (GO:1990670),1.4295958483253945e-14,-2.491901053985018,79.43881412650352,0,markov clusters
+vesicle fusion with vesicle (GO:0061782),1.4295958483253945e-14,-2.4886166445068487,79.33411109520362,0,markov clusters
+vesicle fusion with endoplasmic reticulum (GO:0048279),1.4295958483253945e-14,-2.4857128419039096,79.24154135417557,0,markov clusters
+vesicle fusion with vacuole (GO:0051469),1.4295958483253945e-14,-2.4822859588734225,79.13229643706428,0,markov clusters
+vesicle fusion with peroxisome (GO:0019817),2.2437048200146845e-13,-2.7041637645042464,78.76006161436861,0,markov clusters
+negative regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation (GO:2000080),0.0011837077798279934,-5.22976674390961,35.24393978937504,9,markov clusters
+phosphatidylinositol 5-phosphate biosynthetic process (GO:1904563),1.3580581741097093e-05,-2.8362133270729273,31.785072910525944,9,markov clusters
+"1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate biosynthetic process (GO:1903102)",1.3580581741097093e-05,-2.8336963448464108,31.756865418931195,9,markov clusters
+"1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process (GO:1902635)",1.3580581741097093e-05,-2.831680430375988,31.73427332833909,9,markov clusters
+phosphatidylinositol-3-phosphate biosynthetic process (GO:0036092),1.3580581741097093e-05,-2.8283452949088517,31.69689690006498,9,markov clusters
+phosphatidylinositol biosynthetic process (GO:0006661),2.5585204753411928e-05,-2.894379106211021,30.603706807569928,9,markov clusters
+GPI anchor biosynthetic process (GO:0006506),5.314953765005329e-05,-3.033838745916995,29.860257968336732,9,markov clusters
+positive regulation of heart induction by negative regulation of canonical Wnt signaling pathway (GO:0090082),0.00016968297696092605,-3.198927254878238,27.77173872936272,9,markov clusters
+negative regulation of canonical Wnt signaling pathway involved in osteoblast differentiation (GO:1905240),0.0002866124804968841,-3.4024350453087457,27.75495387770738,9,markov clusters
+planar cell polarity pathway involved in axon guidance (GO:1904938),0.0007681151628828625,-3.85971808768707,27.680241859601686,9,markov clusters
+negative regulation of apoptotic process (GO:0043066),0.0010808448089396024,-5.416098979684452,36.99202272037132,40,markov clusters
+negative regulation of myeloid cell apoptotic process (GO:0033033),0.002209623916936754,-4.7083826822474375,28.791444410842153,40,markov clusters
+negative regulation of mesenchymal cell apoptotic process (GO:2001054),0.002209623916936754,-4.700761347364474,28.744840459033693,40,markov clusters
+negative regulation of fat cell apoptotic process (GO:1904650),0.0021609792462081298,-4.670907025680944,28.666261663114632,40,markov clusters
+negative regulation of apoptotic process involved in development (GO:1904746),0.0021609792462081298,-4.667884025623698,28.647708925889898,40,markov clusters
+negative regulation of leukocyte apoptotic process (GO:2000107),0.0023091812594299987,-4.7178283536746335,28.64128605629341,40,markov clusters
+negative regulation of glial cell apoptotic process (GO:0034351),0.0022840065415525657,-4.707067789737168,28.627558432761912,40,markov clusters
+negative regulation of apoptotic process in bone marrow (GO:0071866),0.0021609792462081298,-4.663387366960493,28.620112060197556,40,markov clusters
+negative regulation of epithelial cell apoptotic process (GO:1904036),0.0021609792462081298,-4.662762905476465,28.616279619046132,40,markov clusters
+negative regulation of myofibroblast cell apoptotic process (GO:1904521),0.0021609792462081298,-4.658537457301314,28.590347224681004,40,markov clusters
+G2/M transition of mitotic cell cycle (GO:0000086),1.3895329718522793e-08,-3.1410104243651245,56.82625926815312,66,markov clusters
+ciliary basal body-plasma membrane docking (GO:0097711),3.52400346888615e-07,-3.7589203303417373,55.85191005463872,66,markov clusters
+regulation of transcription involved in G2/M transition of mitotic cell cycle (GO:0000117),8.367610430868176e-05,-5.424216466226158,50.92556608839163,66,markov clusters
+cytoplasmic microtubule organization (GO:0031122),7.869984146976027e-08,-2.730775148700141,44.66899501129042,66,markov clusters
+cortical microtubule organization (GO:0043622),1.439069351812432e-07,-2.672020027921381,42.09526812938936,66,markov clusters
+cytoplasmic microtubule depolymerization (GO:0010938),1.9860628996664127e-07,-2.6779526471353057,41.32600836086948,66,markov clusters
+astral microtubule organization (GO:0030953),1.6069557549617082e-07,-2.5650927546246614,40.127680290050925,66,markov clusters
+mitotic spindle disassembly (GO:0051228),8.55731767873336e-06,-2.6172126479233717,30.539531441738543,66,markov clusters
+positive regulation of spindle assembly (GO:1905832),0.00012564556941344697,-3.3413472800833803,30.012133487891244,66,markov clusters
+positive regulation of mitotic spindle organization (GO:0110028),1.5963290035523467e-05,-2.6439861279733248,29.20340540557949,66,markov clusters
+positive regulation of NF-kappaB transcription factor activity by ER overload response (GO:0006985),7.803484027321011e-05,-3.202934423350786,30.294491332908766,56,markov clusters
+positive regulation of cytokine biosynthetic process (GO:0042108),3.989988325455953e-05,-2.7347636715604837,27.700796329485943,56,markov clusters
+positive regulation of NF-kappaB transcription factor activity (GO:0051092),0.00035919798200392236,-3.4544582863066986,27.399508604466682,56,markov clusters
+positive regulation of tumor necrosis factor production (GO:0032760),2.562819068311016e-05,-2.5596580513931104,27.060238073007692,56,markov clusters
+regulation of interleukin-15 biosynthetic process (GO:0045372),4.7038527872712134e-05,-2.6117397586497253,26.02479456655776,56,markov clusters
+regulation of interleukin-19 biosynthetic process (GO:0045384),4.7038527872712134e-05,-2.5321038959129845,25.23125954416879,56,markov clusters
+I-kappaB phosphorylation (GO:0007252),0.0033504339813570936,-4.326322092996291,24.654261998384246,56,markov clusters
+positive regulation of tumor necrosis factor biosynthetic process (GO:0042535),3.671012840964943e-05,-2.369024948963482,24.193567466534503,56,markov clusters
+regulation of interleukin-2 biosynthetic process (GO:0045076),6.577932827474259e-05,-2.468731017340189,23.771916880423646,56,markov clusters
+"negative regulation of translation, ncRNA-mediated (GO:0040033)",9.321618980303348e-05,-2.5191242518915518,23.378957176999084,56,markov clusters
+negative regulation of apoptotic process (GO:0043066),4.324382295373053e-10,-5.454857606499024,117.61535751692902,64,markov clusters
+apoptotic process in bone marrow (GO:0071839),5.587127790570301e-10,-3.7865930540456016,80.67482507705314,64,markov clusters
+inflammatory cell apoptotic process (GO:0006925),5.587127790570301e-10,-3.7847903902232263,80.63641862923392,64,markov clusters
+leukocyte apoptotic process (GO:0071887),5.587127790570301e-10,-3.781439358066151,80.56502359701338,64,markov clusters
+apoptotic process (GO:0006915),5.587127790570301e-10,-3.781193661565975,80.55978893833978,64,markov clusters
+fat cell apoptotic process (GO:1904606),5.587127790570301e-10,-3.777465562409414,80.48036034830312,64,markov clusters
+fibroblast apoptotic process (GO:0044346),5.844792950932699e-10,-3.785145197584246,80.4733215316893,64,markov clusters
+glial cell apoptotic process (GO:0034349),5.587127790570301e-10,-3.7738135404756874,80.40255261283332,64,markov clusters
+melanocyte apoptotic process (GO:1902362),5.844792950932699e-10,-3.7817871630665834,80.40192871124299,64,markov clusters
+anoikis (GO:0043276),7.622269367062325e-10,-3.828470767330464,80.37788919711582,64,markov clusters
+axon guidance (GO:0007411),2.864289447952839e-07,-3.7259301783225878,56.13402700933295,60,markov clusters
+corticospinal neuron axon guidance (GO:0021966),1.5685413717797535e-05,-3.2035426984277477,35.44008597902814,60,markov clusters
+VEGF-activated neuropilin signaling pathway involved in axon guidance (GO:1902378),1.5685413717797535e-05,-3.185831682978291,35.24415292322317,60,markov clusters
+serotonergic neuron axon guidance (GO:0036515),1.5105112929658145e-05,-3.1690093501108185,35.17751624932083,60,markov clusters
+commissural neuron axon guidance (GO:0071679),1.6282958064777002e-05,-3.1882501575861686,35.15170623382347,60,markov clusters
+retinal ganglion cell axon guidance (GO:0031290),1.6282958064777002e-05,-3.1867978828354335,35.13569433610987,60,markov clusters
+chemorepulsion of axon (GO:0061643),1.8852852837609722e-05,-3.2278316045822044,35.11508394517243,60,markov clusters
+axon choice point recognition (GO:0016198),1.5105112929658145e-05,-3.1625730480522822,35.10607022463751,60,markov clusters
+corticospinal neuron axon guidance through the cerebral cortex (GO:0021967),1.5105112929658145e-05,-3.162492704037878,35.105178367732094,60,markov clusters
+sensory neuron axon guidance (GO:0097374),1.5105112929658145e-05,-3.160956701042984,35.088128001405465,60,markov clusters
+interstrand cross-link repair (GO:0036297),2.1835926537829387e-08,-3.325671321582781,58.66387506503814,59,markov clusters
+DNA synthesis involved in DNA repair (GO:0000731),1.7181219714159075e-08,-3.1621332747913202,56.537200386185454,59,markov clusters
+double-strand break repair (GO:0006302),4.646473669226645e-08,-3.2669027696820647,55.16025556338598,59,markov clusters
+recombinational repair (GO:0000725),3.1825314174054274e-07,-3.165645715203783,47.35938544278055,59,markov clusters
+recombinational interstrand cross-link repair (GO:0036298),4.1066699717179064e-08,-2.7096664775753245,46.08619243875655,59,markov clusters
+UV-damage excision repair (GO:0070914),9.165160638566652e-07,-3.243673394808189,45.09577348092365,59,markov clusters
+nucleotide-excision repair (GO:0006289),4.1378934774255965e-07,-3.045368672961493,44.76055106170082,59,markov clusters
+nucleotide-excision repair involved in interstrand cross-link repair (GO:1901255),3.7530494621128043e-07,-2.789731520726737,41.275547902470365,59,markov clusters
+DNA ligation involved in DNA repair (GO:0051103),8.115377230058666e-06,-3.19002832412688,37.392714101765996,59,markov clusters
+single strand break repair (GO:0000012),5.980449482412438e-06,-3.046900520141952,36.64511773684389,59,markov clusters
+protein dephosphorylation (GO:0006470),4.762294085580123e-15,-3.7102654951740406,122.3573094816792,62,markov clusters
+inactivation of MAPK activity involved in conjugation with cellular fusion (GO:0071511),7.464295968164062e-15,-3.0714290913018205,99.90942741177663,62,markov clusters
+inactivation of MAPK activity involved in cell wall organization or biogenesis (GO:0000200),7.464295968164062e-15,-3.0580485152736188,99.47417540052126,62,markov clusters
+inactivation of MAPK activity involved in osmosensory signaling pathway (GO:0000173),1.1464932619971533e-14,-2.988497312254659,95.92921973308609,62,markov clusters
+phospholipid dephosphorylation (GO:0046839),2.0422735768384284e-14,-2.952606227974061,93.07243031859306,62,markov clusters
+polynucleotide dephosphorylation (GO:0098501),1.5794130958280125e-15,-2.682648973784906,91.42929943255021,62,markov clusters
+phosphorylated carbohydrate dephosphorylation (GO:0046838),1.5794130958280125e-15,-2.6730767990634843,91.10306322446714,62,markov clusters
+phosphoanandamide dephosphorylation (GO:0035644),2.1253649037680156e-15,-2.6289066389569444,88.81717147493596,62,markov clusters
+inactivation of MAPK activity involved in innate immune response (GO:0035423),1.7285889864081914e-13,-2.9623262861300392,87.05181115792493,62,markov clusters
+peptidyl-tyrosine dephosphorylation (GO:0035335),6.260509029905089e-13,-3.010247540719125,84.58598331642678,62,markov clusters
+neutrophil degranulation (GO:0043312),2.1635976057700225e-10,-5.240768983996722,116.62848455638782,37,markov clusters
+positive regulation of transcription from RNA polymerase II promoter (GO:0045944),4.791060375697729e-07,-7.766605296946177,113.01454454337302,37,markov clusters
+positive regulation of purine nucleotide biosynthetic process by positive regulation of transcription from RNA polymerase II promoter (GO:1900418),1.7787564606076585e-06,-6.500923942202313,86.06960698191959,37,markov clusters
+positive regulation of ergosterol biosynthetic process by positive regulation of transcription from RNA polymerase II promoter (GO:0035961),1.7787564606076585e-06,-6.497796768594128,86.02820446655197,37,markov clusters
+positive regulation of flocculation via cell wall protein-carbohydrate interaction by positive regulation of transcription from RNA polymerase II promoter (GO:1900524),1.7787564606076585e-06,-6.480827895878578,85.80354344628186,37,markov clusters
+positive regulation of mating type switching by positive regulation of transcription from RNA polymerase II promoter (GO:1900423),1.7787564606076585e-06,-6.478711216870422,85.77551947123483,37,markov clusters
+positive regulation of invasive growth in response to glucose limitation by positive regulation of transcription from RNA polymerase II promoter (GO:0036095),1.7787564606076585e-06,-6.477270861915113,85.7564497534501,37,markov clusters
+positive regulation of telomeric RNA transcription from RNA pol II promoter (GO:1901582),1.7787564606076585e-06,-6.47687608734089,85.75122309755442,37,markov clusters
+regulation of glycolytic process by positive regulation of transcription from RNA polymerase II promoter (GO:0072363),1.7787564606076585e-06,-6.476627945634206,85.74793780159341,37,markov clusters
+positive regulation of ribosomal protein gene transcription from RNA polymerase II promoter (GO:0060963),1.7787564606076585e-06,-6.47425003684954,85.71645524982775,37,markov clusters
+vesicle fusion (GO:0006906),1.7364816549797974e-38,-3.128347734645531,271.9984874616406,13,louvain clusters
+endocytosis (GO:0006897),1.617937918334703e-33,-3.163600254661653,238.86496594835793,13,louvain clusters
+"retrograde transport, endosome to Golgi (GO:0042147)",2.421661536436506e-27,-3.5303344184175365,216.3577579296142,13,louvain clusters
+vesicle docking (GO:0048278),2.4788292815018082e-31,-2.9889909423495657,210.64122031361578,13,louvain clusters
+endocytic recycling (GO:0032456),2.0634088535834724e-27,-3.317102118478002,203.82079293341818,13,louvain clusters
+endosome to lysosome transport (GO:0008333),2.1770400454141647e-26,-3.383724637607228,199.94173832328497,13,louvain clusters
+endosome to plasma membrane protein transport (GO:0099638),1.7300120325830152e-24,-3.64377855023917,199.36538575229383,13,louvain clusters
+intracellular protein transport (GO:0006886),3.381249706674457e-21,-3.612465679584534,170.2773324648164,13,louvain clusters
+protein targeting (GO:0006605),2.041700252884577e-22,-3.359691732159088,167.79338362131932,13,louvain clusters
+late endosome to vacuole transport (GO:0045324),1.0314906501062672e-21,-3.230863781853199,156.1259415169697,13,louvain clusters
